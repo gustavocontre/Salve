@@ -4,7 +4,7 @@ import pyttsx3
 
 # salve is a voice assistant with ChatGPT
 
-openai.api_key = "sk...." # here you must put your api_key
+openai.api_key = "sk..." # here you must put your api_key
 
 # you must say "salve" to start
 
